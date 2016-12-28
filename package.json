@@ -1,5 +1,5 @@
 {
-  "name": "hashlru",
+  "name": "hashlru-multilayer",
   "description": "simpler faster substitute for LRU",
   "version": "1.0.3",
   "homepage": "https://github.com/dominictarr/hashlru",
